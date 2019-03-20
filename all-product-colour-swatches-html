@@ -1,0 +1,22 @@
+<ul class="swatch swatch--base">
+ 	<li><span class="swatch--cloverleaf"></span><span class="swatch--title">Clover Leaf</span></li>
+ 	<li><span class="swatch--cornsilk"></span><span class="swatch--title">Cornsilk</span></li>
+ 	<li><span class="swatch--dovegrey"></span><span class="swatch--title">Dove Grey</span></li>
+ 	<li><span class="swatch--ferngreen"></span><span class="swatch--title">Fern Green</span></li>
+ 	<li><span class="swatch--fossil"></span><span class="swatch--title">Fossil</span></li>
+ 	<li><span class="swatch--graphitegrey"></span><span class="swatch--title">Graphite Grey</span></li>
+ 	<li><span class="swatch--honeydew"></span><span class="swatch--title">Honey Dew</span></li>
+ 	<li><span class="swatch--malverngreen"></span><span class="swatch--title">Malvern Green</span></li>
+ 	<li><span class="swatch--olivegrey"></span><span class="swatch--title">Olive Grey</span></li>
+ 	<li><span class="swatch--pebble"></span><span class="swatch--title">Pebble</span></li>
+ 	<li><span class="swatch--rushgreen"></span><span class="swatch--title">Rush Green</span></li>
+ 	<li><span class="swatch--sagegreen"></span><span class="swatch--title">Sage Green</span></li>
+ 	<li><span class="swatch--slateblue"></span><span class="swatch--title">Slate Blue</span></li>
+ 	<li><span class="swatch--stonegreen"></span><span class="swatch--title">Stone Green</span></li>
+ 	<li><span class="swatch--whitesmoke"></span><span class="swatch--title">White Smoke</span></li>
+ 	<li><span class="swatch--willowgreen"></span><span class="swatch--title">Willow Green</span></li>
+ 	<li><span class="swatch--fleetgrey"></span><span class="swatch--title">Fleet Grey</span></li>
+ 	<li><span class="swatch--midnightblue"></span><span class="swatch--title">Midnight Blue</span></li>
+ 	<li><span class="swatch--oceanblue"></span><span class="swatch--title">Ocean Blue</span></li>
+ 	<li><span class="swatch--urbangrey"></span><span class="swatch--title">Urban Grey</span></li>
+</ul>
