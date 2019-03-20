@@ -1,0 +1,8 @@
+<ul class="swatch swatch--base">
+ 	<li><span class="swatch--ivorypaint"></span><span class="swatch--title">Ivory Paint</span></li>
+ 	<li><span class="swatch--oldcottagegreenpaint"></span><span class="swatch--title">Old Cottage Green Paint</span></li>
+ 	<li><span class="swatch--anthracitepaint"></span><span class="swatch--title">Anthracite Paint</span></li>
+ 	<li><span class="swatch--pastelsagepaint"></span><span class="swatch--title">Pastel Sage Paint</span></li>
+ 	<li><span class="swatch--classicwhitepaint"></span><span class="swatch--title">Classic White Paint</span></li>
+ 	<li><span class="swatch--millfinish"></span><span class="swatch--title">Mill Finish</span></li>
+</ul>
