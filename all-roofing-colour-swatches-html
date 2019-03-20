@@ -1,0 +1,5 @@
+<ul class="swatch swatch--base roofing-options">
+<li><span class="swatch--blackroof"></span><span class="swatch--title">Black</span></li>
+ <li><span class="swatch--greenroof"></span><span class="swatch--title">Green</span></li>
+<li><span class="swatch--redroof"></span><span class="swatch--title">Red</span></li>
+</ul>
