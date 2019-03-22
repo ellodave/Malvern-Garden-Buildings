@@ -1,0 +1,32 @@
+/////////SHEDS//////////
+[1] ADDITIONAL SPEC CTA BOX
+
+---------- CLASSES TO ASSIGN (ADD TO RELATED PAGE BUILDER ELEMENT) ------------
+additional-spec shed-additional-spec
+---------- CLASSES TO ASSIGN (ADD TO RELATED PAGE BUILDER ELEMENT) ------------
+
+---------- WITHIN BOXED CONTENT ELEMENT ------------
+
+<h2>Full Specification</h2>
+View the full Technical Specification for Malvern Collection Sheds
+[sf_button colour="transparent-light" type="standard" size="standard" link="/sheds-workshops-range-technical-specification/" target="_self" icon="" dropshadow="no" extraclass="optional-extras-btn"]View specification[/sf_button]
+
+---------- WITHIN BOXED CONTENT ELEMENT ------------
+
+
+
+/////////GRILL CABINS//////////
+[1] OPTIONAL EXTRAS CTA BOX
+
+---------- CLASSES TO ASSIGN (ADD TO RELATED PAGE BUILDER ELEMENT) ------------
+optional-extras
+---------- CLASSES TO ASSIGN (ADD TO RELATED PAGE BUILDER ELEMENT) ------------
+
+---------- WITHIN BOXED CONTENT ELEMENT ------------
+
+<h2>Optional Extras</h2>
+Upgrade your grill or add additional storage to your grill cabin
+
+[sf_button colour="transparent-light" type="standard" size="standard" link="/grill-cabin-options/" target="_self" icon="" dropshadow="no" extraclass="optional-extras-btn"]Show options[/sf_button]
+
+---------- WITHIN BOXED CONTENT ELEMENT ------------
