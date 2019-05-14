@@ -1,0 +1,4 @@
+.buckinghamshire-signup h1{font-size:3rem;}
+.buckinghamshire-showsite-landing ul.social-icons {margin: auto;max-width: 1170px;text-align: center;}
+.buckinghamshire-showsite-landing ul.social-icons li {float: none;margin: auto;text-align: center;}
+.buckinghamshire-showsite-landing .spb_content_element ul.social-icons li:not(.sf-love) a {font-size: 20px;}
