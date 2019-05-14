@@ -1,0 +1,6 @@
+/* XMAS ASSETS */
+.malvern_xmas_footer{position: absolute;width: initial;margin-top: -60px;max-width:1170px;}
+#header{background-image:url(/wp-content/uploads/2015/03/malvern-xmas-header.png);background-size:contain;background-repeat:repeat-x;max-width:1170px;margin: auto;}
+@media only screen and (min-device-width: 320px) and (max-device-width: 812px) {
+.malvern_xmas_footer{display:none;}
+#header{background-image:none;}}
