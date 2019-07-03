@@ -1,0 +1,24 @@
+/* SUMMER 2019 EVENT */
+.summer-event-2019 #main-container{background-color:#ec7c79;}
+.summer-event-2019 .mejs-controls{display:none!important;}
+.summer-event-2019 .mejs-overlay-loading{display:none!important;}
+.summer-event-2019 .under-banner h1{color:#FFFFFF;margin-top:1rem;font-family:"Roboto", sans-serif;letter-spacing:3px;line-height: 1.5;}
+.summer-event-video-banner{border-bottom:solid 2px;border-color:#FFFFFF;}
+.summer-event-video-banner p{margin-bottom:0!important;}
+.summer-event-2019 .cta_strip .sf-button{margin:0;}
+.summer-event-2019 .white-copy p, .spring-event-2019 .white-copy h3 strong{color:#FFFFFF!important;}
+.summer-event-2019 .modal-content{border-radius:0;}
+.summer-event-2019 .modal-header {background: transparent;border: 0;}
+.summer-event-2019 .modal-header h3{font-size: 2rem;text-transform: uppercase;letter-spacing: 0.3rem;font-weight:600;}
+.summer-event-2019 .modal-content .gform_wrapper .top_label .gfield_label, .garden-escape .modal-content .gform_wrapper legend.gfield_label{display:none;}
+.summer-event-2019 .modal-content .gform_button{background-color: #53626B!important;padding: 1rem 5rem 1rem 5rem!important;color: #FFF !important;}
+.summer-event-2019-showsites .sf-button.standard.white.standard{color:#bb8182!important;text-transform: uppercase;letter-spacing: 1px;border-radius:0;}
+.summer-event-2019-showsite-container .spb_wrapper{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column;row-gap: 1rem;}
+.summer-event-2019-showsite-container .spb_wrapper p{margin:0;}
+.summer-event-2019--page-footer-img{height:300px;background-repeat: repeat-x;box-shadow: none;background-size:auto;background-position: bottom;}
+.summer-event-2019 .garden-escape-signup.spb_content_element .box-content-wrap{background-color:#FAEAE4!important;}
+.summer-event-2019 .garden-escape-signup.spb_content_element .box-content-wrap .sf-button{background-color:#956665!important;}
+.summer-event-2019 .garden-escape-signup .box-content-wrap h2{color:#956665;}
+.summer-event-2019 .spb_box_text.whitestroke .box-content-wrap {background-color: #d06765;border:none;}
+.summer-event-2019 .spb_box_text.whitestroke .box-content-wrap *{color:#FFFFFF!important;}
+.summer-event-2019 .spb_box_text.whitestroke .box-content-wrap .sf-button.accent {color: #ffffff;background-color: #A25351;padding: 1.5rem 5rem;font-size: 0.9em;}
