@@ -1,0 +1,23 @@
+/* ROSE EVENT 2019 */
+.rose-event-2019{background-image:url(https://www.malverngardenbuildings.co.uk/wp-content/uploads/2019/06/rose-bg.jpg;)!important;background-repeat: repeat-y !important;background-position: center !important;}
+body.rose-event-2019{background-color: #FFFFFF !important;}
+.rose-event-2019 #main-container{background:transparent!important;}
+.rose-event-2019 section.container{background-color:#b5817fe6;padding: 0 5rem 0 5rem;}
+.rose-event-2019 section.container .spb_content_element h1, .rose-event-2019 section.container .spb_content_element h2, .rose-event-2019 section.container .spb_content_element h3, .rose-event-2019 section.container .spb_content_element p{color:#faeae4;}
+.rose-event-2019 section.container .spb_content_element a{color:#faeae4;border-bottom: solid 1px;}
+.rose-event-2019 .spb_box_text.coloured .box-content-wrap{background-color:transparent!important;}
+.rose-event-2019 .sf-button.accent {color: #fff;background-color: #faeae4;padding: 1.5rem 5rem;color: #a77878 !important;font-size: 1em;}
+.rose-header{max-width:600px;height:auto;margin:auto;}
+.rose-logo{max-width:300px;height:auto;margin: 5rem auto auto auto;}
+.rose-event-2019 .spb_divider.standard {border-bottom-style: dashed;border-bottom-width: 1px;border-color: #f9eae2;max-width: 800px;margin-left: auto;margin-right: auto;}
+.rose-event-2019 h3{line-height:1.5;}
+.rose-event-2019 .garden-escape-signup .box-content-wrap .sf-button {background-color: #242e38;color: #f9eae2 !important;border: none !important;}
+.rose-event-2019 .modal-content{border-radius:0;}
+.rose-event-2019 .modal-header {background: transparent;border: 0;}
+.rose-event-2019 .modal-header h3{font-size: 2rem;text-transform: uppercase;letter-spacing: 0.3rem;font-weight:600;}
+.rose-event-2019 .modal-content .gform_wrapper .top_label .gfield_label, .garden-escape .modal-content .gform_wrapper legend.gfield_label{display:none;}
+.rose-event-2019 .modal-content .gform_button{background-color: #53626B!important;padding: 1rem 5rem 1rem 5rem!important;color: #FFF !important;}
+
+
+/*ROSE EVENT MOBILE RESPONSIVE*/
+.rose-event-2019 section.container{padding:1.5rem!important;}
