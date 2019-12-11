@@ -1,0 +1,1 @@
+[wpv-control-postmeta field="wpcf-offer-status" type="checkboxes" source="custom" url_param="wpv-wpcf-offer-status" values="Sold" display_values="Hide sold buildings"]
