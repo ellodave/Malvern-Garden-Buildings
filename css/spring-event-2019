@@ -1,0 +1,47 @@
+.autumn-event-2019 #main-container{background:rgb(107,189,181);}
+.autumn-event-2019 .page-content{background-image: url(/wp-content/uploads/2019/09/Asset-1Frame_colour5@2x.png);background-position: top;background-size: auto;background-attachment: fixed;}
+.autumn-event-2019 .summer-event-video-banner p{margin:0;}
+.autumn-event-2019 .summer-event-video-banner video{margin:0;padding:0;display:block;}
+.autumn-event-2019 .under-banner{margin-top:5rem;}
+.autumn-event-2019 .mejs-controls{display:none!important;}
+.autumn-event-2019 .mejs-overlay-loading{display:none!important;}
+.autumn-event-2019 .under-banner h1{color:#FFFFFF;margin-top:1rem;font-family:"Roboto", sans-serif;letter-spacing:3px;line-height: 1.2;font-size:3em;}
+.autumn-event-video-banner{border-bottom:solid 2px;border-color:#FFFFFF;}
+.autumn-event-video-banner p{margin-bottom:0!important;}
+.autumn-event-2019 .cta_strip .sf-button{margin:0;}
+.autumn-event-2019 .spb_divider{max-width:400px;margin:auto;border-bottom-width:2px;}
+.autumn-event-2019 h1 sup{font-size: 0.5em;top: -1em;}
+.autumn-event-2019 .white-copy p, .spring-event-2019 .white-copy h3 strong, .white-copy h3, .white-copy h4{color:#FFFFFF!important;}
+.autumn-event-2019 .white-copy p{font-size:1.2em;line-height:1.5}
+.autumn-event-2019 .white-copy h3{font-size:1.8em;line-height:1.5;margin-bottom:6rem;margin-top:1rem;}
+.autumn-event-2019 .white-copy h4{font-size:1.4em;line-height:1.5;}
+.autumn-event-2019 .modal-content{border-radius:0;}
+.autumn-event-2019 .modal-header {background: transparent;border: 0;}
+.autumn-event-2019 .modal-header h3{font-size: 2rem;text-transform: uppercase;letter-spacing: 0.3rem;font-weight:600;}
+.autumn-event-2019 .modal-content .gform_wrapper .top_label .gfield_label, .garden-escape .modal-content .gform_wrapper legend.gfield_label{display:none;}
+.autumn-event-2019 .modal-content .gform_button{background-color: #53626B!important;padding: 1rem 5rem 1rem 5rem!important;color: #FFF !important;}
+.autumn-event-2019-showsites .sf-button.standard.white.standard{color:#FBDDBD!important;text-transform: uppercase;letter-spacing: 1px;border-radius:0;background-color:#C96035!important;}
+.autumn-event-2019-showsite-container .spb_wrapper{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column;row-gap: 1rem;}
+.autumn-event-2019--page-footer-img{height:100px;background-repeat: repeat-x;box-shadow: none;background-size:contain;background-position: bottom;}
+.autumn-event-2019 .garden-escape-signup.spb_content_element .box-content-wrap{background-color:#A6351A!important;}
+.autumn-event-2019 .garden-escape-signup.spb_content_element .box-content-wrap .sf-button{background-color:#956665!important;}
+.autumn-event-2019 .garden-escape-signup .box-content-wrap h2{color:#FFFFFF;}
+.autumn-event-2019 .spb_box_text.whitestroke .box-content-wrap {background-color: #9d3415;border:none;margin-bottom: 3rem;}
+.autumn-event-2019 .spb_box_text.whitestroke .box-content-wrap *{color:#FFFFFF!important;}
+.autumn-event-2019 .spb_box_text.whitestroke .box-content-wrap .sf-button.accent {color: #ffffff;background-color: #C96035;padding: 1.5rem 5rem;font-size: 0.9em;}
+.autumn-event-2019-showsite-container .spb_wrapper{background: rgb(163,55,20);background: linear-gradient(0deg,rgba(100, 39, 20, 0.5) 0%, rgba(214, 84, 48, 0) 100%);padding: 2rem;color:#FFFFFF;}
+.autumn-event-2019-showsite-container h3{color:#FFFFFF;margin: 0 0 1rem 0;}
+.autumn-event-2019-showsite-container{margin-bottom:3rem;}
+.autumn-event-2019--showsite-container{margin-top:10rem!important;}
+.autumn-event-2019-showsite-container .spb_wrapper p:last-of-type{margin-bottom:0;}
+.autumn-event-2019--showsite-container .box-content-wrap h3{margin:0;}
+.autumn-event-2019 .request-brochure-bar .box-content-wrap{background-color:transparent !important;padding: 5rem !important;}
+.autumn-event-2019 .request-brochure-bar .box-content-wrap .sf-button{color:#3f1c11 !important}
+/*EVENT TABLETS*/
+.event-landing--main-copy .col-sm-6.white-copy{width:100%;}
+.event-landing-showsites .container .row{display: -ms-grid;display: grid;grid-template-columns: 1fr 1fr 1fr;}
+.event-landing-showsites .container .row::before{display:none;}
+.event-landing-showsites .container .row::after{display:none;}
+.event-landing-showsite-container .container .row{display: -ms-grid;display: grid;grid-template-columns: 1fr 1fr;grid-gap: 2rem;}
+.event-landing-showsite-container .col-sm-3{width:100%!important;}
+.event-landing-showsite-container .container .row::before{display:none;}
