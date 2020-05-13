@@ -1,0 +1,6 @@
+/* CHELSEA FLOWER SHOW 2019 FEED */
+.chelsea-2019-feed .carousel-wrap{background-color: #eef0f3;padding: 1rem 0rem 3rem 0rem;}
+.chelsea-2019-feed .carousel-wrap .carousel-item{background-color: #eef0f3;}
+.chelsea-2019-feed .carousel-wrap .recent-post h5 a{font-size:1.8rem;font-weight:600;line-height:1.6;}
+.chelsea-feed-title{margin-top:2rem;}
+.chelsea-2019-feed figure.animated-overlay figcaption{background-color: #ffffff82!important;}
