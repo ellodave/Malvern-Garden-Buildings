@@ -1,0 +1,4 @@
+/*SUDELEY OFFERS TEMP*/
+.single-sudeley-offers .post-pagination-wrap, .single-sudeley-offers .post-info, .single-sudeley-offers .author-info-wrap{display:none;}
+.single-sudeley-offers #page-wrap{overflow:visible;}
+.single-sudeley-offers .share-links{display:none;}
