@@ -1,0 +1,26 @@
+.building-cat-slider__container .building-cat-slider__building-caption{
+	text-align:center;
+	text-transform:uppercase;
+	font-size:1.5em;
+	padding:15px 0 15px 0 ;
+	color:white;
+	letter-spacing:0.5px;
+}
+.building-cat-slider__container .building-cat-slider__building-caption:nth-of-type(1){
+	background-color:var(--dark-green);
+}
+.building-cat-slider__container .building-cat-slider__building-caption:nth-of-type(2){
+	background-color:var(--pink);
+}
+.building-cat-slider__container .building-cat-slider__building-caption:nth-of-type(3){
+	background-color:var(--light-green-med);
+}
+.building-cat-slider__container .building-cat-slider__building-caption:nth-of-type(4){
+	background-color:var(--light-green-light);
+}
+.building-cat-slider__container .building-cat-slider__building-caption:nth-of-type(5){
+	background-color:var(--dark-green);
+}
+.building-cat-slider__container .building-cat-slider__building-caption:nth-of-type(6){
+	background-color:var(--pink);
+}
