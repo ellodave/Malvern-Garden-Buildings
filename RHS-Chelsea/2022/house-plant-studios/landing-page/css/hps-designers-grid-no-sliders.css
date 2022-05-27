@@ -1,0 +1,186 @@
+<!--
+**********
+HOW TO PUBLISH PLANET STUDIO PAGE
+Replace the href link (#) with /chelsea/profile/planet-studio/ and remove the word "hide" from the line below (profile-more-btn) 
+**********
+-->
+
+<div class="chelsea-profiles display-grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-3">
+<!-- Profile -->
+   <div class="chelsea-profiles__wrapper">
+     <figure class="chelsea-profiles__wrapper__item flex flex-col items-center rounded-md shadow bg--light-purple">
+            <a href="/chelsea/profile/planet-studio/" class="w-full pos-relative">
+                 <span class="profile-more-btn pos-absolute bg--base-blue color-white bottom-0 right-0 px-30 py-10 shadow mb-10 rounded-lg font-bold block w-full text-center">Find out more <i class="fa-solid fa-arrow-right pl-10"></i></span>
+                 <img src="/wp-content/uploads/2022/03/plants-by-there-james-whiting3.jpeg" alt="James Whiting from Plants by There"></a>
+        <figcaption class="px-20">
+            <h3 class="mb-0">@Plantsbythere</h3>
+               <div class="chelsea-profiles__wrapper__item__details">
+                     <ul class="mb-0 flex flex-col">
+                          <li class="list-none">Designer: <span class="font-bold">James Whiting</span></li>
+                          <li class="list-none">Studio: <span class="font-bold">Planet Studio</span></li>
+                          <li class="list-none">Garden Building: <span class="font-bold">The Kew Garden Room</span><span class="block">Sponsored by Malvern Garden Buildings</span></li>
+                     </ul>
+               </div>
+            <p>Former RHS Chelsea Gold Medal winner, James is a stylist and curator with a love for enhancing spaces with houseplants and ceramics. His design, Planet Studio, is inspired by the iconic Manhattan club Studio 54, where retro classics and wonderful oddities of the houseplant world will collide in a nostalgic feast for the eyes.</p>
+            <div class="flex flew-row gap-1 mb-20 profile-socials">
+    <a href="https://plantsbythere.com" target="_blank"><i class="fa-solid fa-globe"></i></a>
+   <a href="https://www.instagram.com/plantsbythere/" target="_blank"><i class="fa-brands fa-instagram"></i></a>
+    </div>
+        </figcaption>
+     </figure>
+   </div>
+<!-- Profile -->
+
+<!-- Profile -->
+   <div class="chelsea-profiles__wrapper hide">
+     <figure class="chelsea-profiles__wrapper__item flex flex-col items-center rounded-md shadow bg--light-purple">
+            <img src="/wp-content/uploads/2022/03/hutch-houseplants-frankie-rob-vincent.jpg" alt="Frankie and Rob Vincent from Hutch Houseplants">
+        <figcaption class="px-20">
+            <h3 class="mb-0">Hutch Houseplants</h3>
+               <div class="chelsea-profiles__wrapper__item__details">
+                     <ul class="mb-0 flex flex-col">
+                          <li class="list-none">Designers: <span class="font-bold">Rob & Frankie Vincent</span></li>
+                          <li class="list-none">Studio: <span class="font-bold">Rewilding</span></li>
+                          <li class="list-none">Garden Building: <span class="font-bold">Flat Roof Studio</span></li>
+                     </ul>
+               </div>
+            <p>Exeter based Hutch Houseplants exist to show that anybody, anywhere can be a plant parent. Their 2022 design, Rewilding is a celebration of houseplants in their natural state, where the plants will ‘reclaim’ the studio, to create a walk-in terrarium.</p>
+            <div class="flex flew-row gap-1 mb-20 profile-socials">
+    <a href="https://www.hutchhouseplants.co.uk" target="_blank"><i class="fa-solid fa-globe"></i></a>
+   <a href="https://www.instagram.com/hutchhouseplants/" target="_blank"><i class="fa-brands fa-instagram"></i></a>
+    </div>
+        </figcaption>
+     </figure>
+   </div>
+<!-- Profile -->
+
+<!-- Profile -->
+   <div class="chelsea-profiles__wrapper">
+     <figure class="chelsea-profiles__wrapper__item flex flex-col items-center rounded-md shadow bg--light-purple">
+            <a href="/chelsea/profile/the-aroid-attic/" class="w-full pos-relative">
+                 <span class="profile-more-btn pos-absolute bg--base-blue color-white bottom-0 right-0 px-30 py-10 shadow mb-10 rounded-lg font-bold block w-full text-center">Find out more <i class="fa-solid fa-arrow-right pl-10"></i></span>
+            <img src="/wp-content/uploads/2022/04/The-Aroid-Attic-Chartlotte-Durrant-1.jpg" alt="Charlotte Durrant from The Aroid Attic">
+</a>
+        <figcaption class="px-20">
+            <h3 class="mb-0">The Aroid Attic</h3>
+               <div class="chelsea-profiles__wrapper__item__details">
+                     <ul class="mb-0 flex flex-col">
+                          <li class="list-none">Designers: <span class="font-bold">Charlotte Durrant & Mo Bhula</span></li>
+                          <li class="list-none">Studio: <span class="font-bold">Social Media versus Reality</span></li>
+                          <li class="list-none">Garden Building: <span class="font-bold">Flat Roof Studio</span></li>
+                     </ul>
+               </div>
+            <p>Owner Charlotte has teamed up with social media plantaholic Mo Bhula of The Botanical Archive to create their design, which will explore the juxtaposition of social media and reality.</p>
+            <div class="flex flew-row gap-1 mb-20 profile-socials">
+    <a href="https://thearoidattic.com/" target="_blank"><i class="fa-solid fa-globe"></i></a>
+   <a href="https://www.instagram.com/thearoidattic/" target="_blank"><i class="fa-brands fa-instagram"></i></a>
+    </div>
+        </figcaption>
+     </figure>
+   </div>
+<!-- Profile -->
+
+<!-- Profile -->
+   <div class="chelsea-profiles__wrapper">
+     <figure class="chelsea-profiles__wrapper__item flex flex-col items-center rounded-md shadow bg--light-purple">
+         <a href="/chelsea/profile/happy-houseplants-the-plant-rescuer/" class="w-full pos-relative">
+              <span class="profile-more-btn pos-absolute bg--base-blue color-white bottom-0 right-0 px-30 py-10 shadow mb-10 rounded-lg font-bold block w-full text-center">Find out more <i class="fa-solid fa-arrow-right pl-10"></i></span>
+            <img src="/wp-content/uploads/2022/04/happy-house-plants-plant-rescuer.png" alt="Emily Lawlor from Happy Houseplants and Sarah Gerrard-Jones The Plant Rescuer"></a>
+        <figcaption class="px-20">
+            <h3 class="mb-0">Happy Houseplants x The Plant Rescuer</h3>
+               <div class="chelsea-profiles__wrapper__item__details">
+                     <ul class="mb-0 flex flex-col">
+                          <li class="list-none">Designers: <span class="font-bold">Emily & Mark Lawlor with Sarah Gerrard-Jones </span></li>
+                          <li class="list-none">Studio: <span class="font-bold">The Plant Clinic</span></li>
+                          <li class="list-none">Garden Building: <span class="font-bold">Studio Pavilion</span></li>
+                     </ul>
+               </div>
+            <p>Happy Houseplants and The Plant Rescuer will be bringing together independent businesses and social media influencers to create the Plant Clinic, an interactive space for people to learn how to better care for their houseplants.</p>
+            <div class="flex flew-row gap-1 mb-20 profile-socials">
+    <a href="https://www.happyhouseplants.co.uk" target="_blank"><i class="fa-solid fa-globe"></i></a>
+    <a href="https://www.instagram.com/happy_houseplants/" target="_blank"><i class="fa-brands fa-instagram"></i></a>
+  <a href="https://www.instagram.com/theplantrescuer/" target="_blank"><i class="fa-brands fa-instagram"></i></a>
+    </div>
+        </figcaption>
+     </figure>
+   </div>
+<!-- Profile -->
+
+<!-- Profile -->
+   <div class="chelsea-profiles__wrapper">
+     <figure class="chelsea-profiles__wrapper__item flex flex-col items-center rounded-md shadow bg--light-purple">
+<a href="/chelsea/profile/the-planted-house/" class="w-full pos-relative">
+                 <span class="profile-more-btn pos-absolute bg--base-blue color-white bottom-0 right-0 px-30 py-10 shadow mb-10 rounded-lg font-bold block w-full text-center">Find out more <i class="fa-solid fa-arrow-right pl-10"></i></span>
+            <img src="/wp-content/uploads/2022/03/the-planted-house-antonia-macgregor2.jpeg" alt="Antonia Macgregor from The Planted House">
+</a>
+        <figcaption class="px-20">
+            <h3 class="mb-0">The Planted House</h3>
+               <div class="chelsea-profiles__wrapper__item__details">
+                     <ul class="mb-0 flex flex-col">
+                          <li class="list-none">Designer: <span class="font-bold">Antonia Adams</span></li>
+                          <li class="list-none">Studio: <span class="font-bold">A Room to Dance</span></li>
+                          <li class="list-none">Garden Building: <span class="font-bold">Studio Apex</span></li>
+                     </ul>
+               </div>
+            <p>The Planted House is an immersive space to excite and inspire plant lovers and the curious. A dramatic aerial garden will be the focus of their 2022 design, with rattan woven throughout the space.</p>
+            <div class="flex flew-row gap-1 mb-20 profile-socials">
+   <a href="https://www.theplantedhouse.co.uk/" target="_blank"><i class="fa-brands fa-globe"></i></a>
+   <a href="https://www.instagram.com/theplantedhousepz" target="_blank"><i class="fa-brands fa-instagram"></i></a>
+    </div>
+        </figcaption>
+     </figure>
+   </div>
+<!-- Profile -->
+
+<!-- Profile -->
+   <div class="chelsea-profiles__wrapper">
+     <figure class="chelsea-profiles__wrapper__item flex flex-col items-center rounded-md shadow bg--light-purple">
+            <a href="/chelsea/profile/the-edible-bus-stop/" class="w-full pos-relative">
+                 <span class="profile-more-btn pos-absolute bg--base-blue color-white bottom-0 right-0 px-30 py-10 shadow mb-10 rounded-lg font-bold block w-full text-center">Find out more <i class="fa-solid fa-arrow-right pl-10"></i></span>
+            <img src="/wp-content/uploads/2022/04/EdibleBusStop_DynamicDuo.png" alt="The Edible Bus Stop"></a>
+        <figcaption class="px-20">
+            <h3 class="mb-0">The Edible Bus Stop</h3>
+               <div class="chelsea-profiles__wrapper__item__details">
+                     <ul class="mb-0 flex flex-col">
+                          <li class="list-none">Designer: <span class="font-bold">Mak Gilchrist & Pascale Duval</span></li>
+                          <li class="list-none">Studio: <span class="font-bold">Botanical Rhapsody</span></li>
+                          <li class="list-none">Garden Building: <span class="font-bold">Studio Pent</span></li>
+<li class="list-none">Sponsored by: <span class="font-bold">Close Brothers Asset Management</span></li><span class="block">
+                     </ul>
+               </div>
+            <p>The Edible Bus Stop are a spatial design studio specialising in transformative landscape design for the public realm. Following on from their medal-winning success at last year's Houseplant Studios, they return with 'Botanical Rhapsody'. Their immersive studio offers a sensory experience, that through sound, vision and touch, explores our innate connection with nature.</p>
+            <div class="flex flew-row gap-1 mb-20 profile-socials">
+    <a href="https://www.theediblebusstop.com" target="_blank"><i class="fa-solid fa-globe"></i></a>
+   <a href="https://www.instagram.com/edible_bus_stop/" target="_blank"><i class="fa-brands fa-instagram"></i></a>
+    </div>
+        </figcaption>
+     </figure>
+   </div>
+<!-- Profile -->
+
+<!-- Profile -->
+   <div class="chelsea-profiles__wrapper">
+     <figure class="chelsea-profiles__wrapper__item flex flex-col items-center rounded-md shadow bg--light-purple">
+            <a href="/chelsea/profile/the-plant-workshop/" class="w-full pos-relative">
+                 <span class="profile-more-btn pos-absolute bg--base-blue color-white bottom-0 right-0 px-30 py-10 shadow mb-10 rounded-lg font-bold block w-full text-center">Find out more <i class="fa-solid fa-arrow-right pl-10"></i></span>
+            <img src="/wp-content/uploads/2022/05/the-plant-workshop-dave-steve.jpg" alt="The Plant Workshop"></a>
+        <figcaption class="px-20">
+            <h3 class="mb-0">The Plant Workshop</h3>
+               <div class="chelsea-profiles__wrapper__item__details">
+                     <ul class="mb-0 flex flex-col">
+                          <li class="list-none">Designers: <span class="font-bold">Dave & Steve Morley</span></li>
+                          <li class="list-none">Studio: <span class="font-bold">The Grass Is Greener Where You Water It</span></li>
+                          <li class="list-none">Garden Building: <span class="font-bold">Flat Roof Studio</span></li>
+                     </ul>
+               </div>
+            <p>The Plant Workshop will create a beautiful and inclusive work from home space, balancing productivity and downtime, which they hope visitors will take inspiration and ideas from to replicate a sense of sanctuary irrespective of locality, space or budget.</p>
+            <div class="flex flew-row gap-1 mb-20 profile-socials">
+    <a href="https://www.theplantworkshop.co.uk/" target="_blank"><i class="fa-solid fa-globe"></i></a>
+   <a href="https://www.instagram.com/theplantworkshopuk/" target="_blank"><i class="fa-brands fa-instagram"></i></a>
+    </div>
+        </figcaption>
+     </figure>
+   </div>
+<!-- Profile -->
+
+</div>
